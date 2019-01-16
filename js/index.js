@@ -3,7 +3,7 @@
  */
 
 // global variables
-var DIRECTORY_URL = "https://acme-v02.api.letsencrypt.org/directory";
+var DIRECTORY_URL = "https://api.buypass.com/acme/directory";
 //var DIRECTORY_URL = "https://acme-staging-v02.api.letsencrypt.org/directory";
 var DIRECTORY = {
 //  "keyChange": "https://...
